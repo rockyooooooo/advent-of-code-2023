@@ -169,6 +169,6 @@ function partTwo(filePath: string) {
 
 console.log(partTwo('part-two-example.txt'))
 console.time('part2')
-console.log(partTwo('part-two-input.txt'))
+console.log(partTwo('part-two-input.txt')) // wrong anser: 81956385
 console.timeEnd('part2')
 
